@@ -1,6 +1,6 @@
 # Hello bro
   
->Can you let the girl you like through my wechat
+>Can you let the girl i like pass my wechat
 
 >thank to meet you
 
