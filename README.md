@@ -1,9 +1,5 @@
 # Hello Code and SEC
   
->Can you let the girl i like pass my wechat
-
->thank to meet you
-
 
 <!---
 may1as/may1as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
