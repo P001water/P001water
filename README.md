@@ -4,8 +4,6 @@ Always an active Pentester at front-line; Come Here and Share my some interestin
 
 Pentest、RedTeam、Tools-dev
 
-* 不参与攻防演练、溯源到工具、ID与本人无关
-
 * 为每一个工具设定一个场景，发挥它最大的作用而不是追求 ALL in
 
 * 我想我的工具还并不完美，但您的建议会让它快速进步
